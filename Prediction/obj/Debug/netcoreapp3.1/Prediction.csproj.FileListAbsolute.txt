@@ -1,0 +1,13 @@
+D:\Code\Prediction\Prediction\bin\Debug\netcoreapp3.1\Prediction.exe
+D:\Code\Prediction\Prediction\bin\Debug\netcoreapp3.1\Prediction.deps.json
+D:\Code\Prediction\Prediction\bin\Debug\netcoreapp3.1\Prediction.runtimeconfig.json
+D:\Code\Prediction\Prediction\bin\Debug\netcoreapp3.1\Prediction.runtimeconfig.dev.json
+D:\Code\Prediction\Prediction\bin\Debug\netcoreapp3.1\Prediction.dll
+D:\Code\Prediction\Prediction\bin\Debug\netcoreapp3.1\Prediction.pdb
+D:\Code\Prediction\Prediction\obj\Debug\netcoreapp3.1\Prediction.csprojAssemblyReference.cache
+D:\Code\Prediction\Prediction\obj\Debug\netcoreapp3.1\Prediction.AssemblyInfoInputs.cache
+D:\Code\Prediction\Prediction\obj\Debug\netcoreapp3.1\Prediction.AssemblyInfo.cs
+D:\Code\Prediction\Prediction\obj\Debug\netcoreapp3.1\Prediction.dll
+D:\Code\Prediction\Prediction\obj\Debug\netcoreapp3.1\Prediction.pdb
+D:\Code\Prediction\Prediction\bin\Debug\netcoreapp3.1\AngleSharp.dll
+D:\Code\Prediction\Prediction\obj\Debug\netcoreapp3.1\Prediction.csproj.CopyComplete
